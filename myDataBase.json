@@ -1,0 +1,21 @@
+{
+  "c80bd8ec-bf57-4a21-9c93-1cdbd94de96e": {
+    "path": "user/c80bd8ec-bf57-4a21-9c93-1cdbd94de96e",
+    "tempSecret": {
+      "ascii": "ehboXQ(0hGRdQ#s.ovr1X>>/iplBT2HJ",
+      "hex": "6568626f58512830684752645123732e6f767231583e3e2f69706c425432484a",
+      "base32": "MVUGE32YKEUDA2CHKJSFCI3TFZXXM4RRLA7D4L3JOBWEEVBSJBFA",
+      "otpauth_url": "otpauth://totp/SecretKey?secret=MVUGE32YKEUDA2CHKJSFCI3TFZXXM4RRLA7D4L3JOBWEEVBSJBFA"
+    }
+  },
+  "bb4bba4c-ea27-481a-8ebd-eb8d63e67993": {
+    "path": "user/bb4bba4c-ea27-481a-8ebd-eb8d63e67993",
+    "id": "bb4bba4c-ea27-481a-8ebd-eb8d63e67993",
+    "secret": {
+      "ascii": ":[R7HPTTvaUE<n6wN,dDIS3X)V83T3L3",
+      "hex": "3a5b523748505454766155453c6e36774e2c6444495333582956383354334c33",
+      "base32": "HJNVEN2IKBKFI5TBKVCTY3RWO5HCYZCEJFJTGWBJKY4DGVBTJQZQ",
+      "otpauth_url": "otpauth://totp/SecretKey?secret=HJNVEN2IKBKFI5TBKVCTY3RWO5HCYZCEJFJTGWBJKY4DGVBTJQZQ"
+    }
+  }
+}
